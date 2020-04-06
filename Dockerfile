@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu/latest
 MAINTAINER aaaa
 
 RUN apt-get -y update
