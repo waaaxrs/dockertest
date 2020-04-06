@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-MAINTAINER Waaax
 
 RUN apt-get -y update
 RUN apt-get -y install libaio1 unzip
